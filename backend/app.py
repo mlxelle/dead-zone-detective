@@ -9,6 +9,7 @@ CORS(app)
 
 # load data
 df = pd.read_csv("data.csv")
+df["h3"] = df["h3"].astype(str).str.strip()
 
 
 def h3_to_geojson(h3_index, properties):
@@ -71,7 +72,7 @@ def get_hexes():
     features = []
 
     for _, row in df.iterrows():
-        h3_index = row["h3"]
+        h3_index = str(row["h3"]).strip()
         lat, lon = h3.cell_to_latlng(h3_index)
 
         weather = fetch_weather(lat, lon)
@@ -86,6 +87,29 @@ def get_hexes():
         "type": "FeatureCollection",
         "features": features
     })
+
+
+@app.route("/hex/<h3_id>")
+def get_hex_by_id(h3_id):
+    h3_id = str(h3_id).strip()
+    row = df[df["h3"] == h3_id]
+
+    if row.empty:
+        return jsonify({
+            "error": "Hex not found",
+            "requested": h3_id,
+            "available": df["h3"].tolist()
+        }), 404
+
+    row_data = row.iloc[0]
+    lat, lon = h3.cell_to_latlng(h3_id)
+    weather = fetch_weather(lat, lon)
+
+    properties = row_data.to_dict()
+    properties.update(weather)
+
+    feature = h3_to_geojson(h3_id, properties)
+    return jsonify(feature)
 
 
 if __name__ == "__main__":
