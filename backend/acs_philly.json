@@ -1,0 +1,2042 @@
+{
+  "42101000101": {
+    "name": "Census Tract 1.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "117250",
+    "households_no_internet": "0"
+  },
+  "42101000102": {
+    "name": "Census Tract 1.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "94974",
+    "households_no_internet": "0"
+  },
+  "42101000200": {
+    "name": "Census Tract 2; Philadelphia County; Pennsylvania",
+    "median_household_income": "98994",
+    "households_no_internet": "40"
+  },
+  "42101000300": {
+    "name": "Census Tract 3; Philadelphia County; Pennsylvania",
+    "median_household_income": "95234",
+    "households_no_internet": "52"
+  },
+  "42101000401": {
+    "name": "Census Tract 4.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "86293",
+    "households_no_internet": "59"
+  },
+  "42101000403": {
+    "name": "Census Tract 4.03; Philadelphia County; Pennsylvania",
+    "median_household_income": "181066",
+    "households_no_internet": "23"
+  },
+  "42101000404": {
+    "name": "Census Tract 4.04; Philadelphia County; Pennsylvania",
+    "median_household_income": "90980",
+    "households_no_internet": "187"
+  },
+  "42101000500": {
+    "name": "Census Tract 5; Philadelphia County; Pennsylvania",
+    "median_household_income": "69267",
+    "households_no_internet": "87"
+  },
+  "42101000600": {
+    "name": "Census Tract 6; Philadelphia County; Pennsylvania",
+    "median_household_income": "97794",
+    "households_no_internet": "0"
+  },
+  "42101000701": {
+    "name": "Census Tract 7.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "86809",
+    "households_no_internet": "0"
+  },
+  "42101000702": {
+    "name": "Census Tract 7.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "79926",
+    "households_no_internet": "22"
+  },
+  "42101000801": {
+    "name": "Census Tract 8.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "126726",
+    "households_no_internet": "8"
+  },
+  "42101000803": {
+    "name": "Census Tract 8.03; Philadelphia County; Pennsylvania",
+    "median_household_income": "82112",
+    "households_no_internet": "39"
+  },
+  "42101000805": {
+    "name": "Census Tract 8.05; Philadelphia County; Pennsylvania",
+    "median_household_income": "84773",
+    "households_no_internet": "78"
+  },
+  "42101000806": {
+    "name": "Census Tract 8.06; Philadelphia County; Pennsylvania",
+    "median_household_income": "180504",
+    "households_no_internet": "7"
+  },
+  "42101000901": {
+    "name": "Census Tract 9.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "44926",
+    "households_no_internet": "129"
+  },
+  "42101000902": {
+    "name": "Census Tract 9.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "89063",
+    "households_no_internet": "155"
+  },
+  "42101001001": {
+    "name": "Census Tract 10.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "123935",
+    "households_no_internet": "9"
+  },
+  "42101001002": {
+    "name": "Census Tract 10.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "144922",
+    "households_no_internet": "46"
+  },
+  "42101001101": {
+    "name": "Census Tract 11.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "58557",
+    "households_no_internet": "138"
+  },
+  "42101001102": {
+    "name": "Census Tract 11.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "107470",
+    "households_no_internet": "25"
+  },
+  "42101001201": {
+    "name": "Census Tract 12.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "116935",
+    "households_no_internet": "43"
+  },
+  "42101001203": {
+    "name": "Census Tract 12.03; Philadelphia County; Pennsylvania",
+    "median_household_income": "105320",
+    "households_no_internet": "25"
+  },
+  "42101001204": {
+    "name": "Census Tract 12.04; Philadelphia County; Pennsylvania",
+    "median_household_income": "88583",
+    "households_no_internet": "0"
+  },
+  "42101001301": {
+    "name": "Census Tract 13.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "132344",
+    "households_no_internet": "13"
+  },
+  "42101001302": {
+    "name": "Census Tract 13.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "112892",
+    "households_no_internet": "74"
+  },
+  "42101001400": {
+    "name": "Census Tract 14; Philadelphia County; Pennsylvania",
+    "median_household_income": "89775",
+    "households_no_internet": "216"
+  },
+  "42101001500": {
+    "name": "Census Tract 15; Philadelphia County; Pennsylvania",
+    "median_household_income": "110859",
+    "households_no_internet": "56"
+  },
+  "42101001600": {
+    "name": "Census Tract 16; Philadelphia County; Pennsylvania",
+    "median_household_income": "146071",
+    "households_no_internet": "38"
+  },
+  "42101001700": {
+    "name": "Census Tract 17; Philadelphia County; Pennsylvania",
+    "median_household_income": "131635",
+    "households_no_internet": "22"
+  },
+  "42101001800": {
+    "name": "Census Tract 18; Philadelphia County; Pennsylvania",
+    "median_household_income": "114063",
+    "households_no_internet": "24"
+  },
+  "42101001900": {
+    "name": "Census Tract 19; Philadelphia County; Pennsylvania",
+    "median_household_income": "138500",
+    "households_no_internet": "17"
+  },
+  "42101002000": {
+    "name": "Census Tract 20; Philadelphia County; Pennsylvania",
+    "median_household_income": "103611",
+    "households_no_internet": "88"
+  },
+  "42101002100": {
+    "name": "Census Tract 21; Philadelphia County; Pennsylvania",
+    "median_household_income": "102969",
+    "households_no_internet": "105"
+  },
+  "42101002200": {
+    "name": "Census Tract 22; Philadelphia County; Pennsylvania",
+    "median_household_income": "68412",
+    "households_no_internet": "8"
+  },
+  "42101002300": {
+    "name": "Census Tract 23; Philadelphia County; Pennsylvania",
+    "median_household_income": "106389",
+    "households_no_internet": "98"
+  },
+  "42101002400": {
+    "name": "Census Tract 24; Philadelphia County; Pennsylvania",
+    "median_household_income": "98015",
+    "households_no_internet": "234"
+  },
+  "42101002500": {
+    "name": "Census Tract 25; Philadelphia County; Pennsylvania",
+    "median_household_income": "83576",
+    "households_no_internet": "204"
+  },
+  "42101002701": {
+    "name": "Census Tract 27.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "91078",
+    "households_no_internet": "119"
+  },
+  "42101002702": {
+    "name": "Census Tract 27.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "95745",
+    "households_no_internet": "27"
+  },
+  "42101002801": {
+    "name": "Census Tract 28.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "71352",
+    "households_no_internet": "179"
+  },
+  "42101002802": {
+    "name": "Census Tract 28.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "78871",
+    "households_no_internet": "139"
+  },
+  "42101002900": {
+    "name": "Census Tract 29; Philadelphia County; Pennsylvania",
+    "median_household_income": "93631",
+    "households_no_internet": "143"
+  },
+  "42101003001": {
+    "name": "Census Tract 30.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "59583",
+    "households_no_internet": "308"
+  },
+  "42101003002": {
+    "name": "Census Tract 30.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "74213",
+    "households_no_internet": "178"
+  },
+  "42101003100": {
+    "name": "Census Tract 31; Philadelphia County; Pennsylvania",
+    "median_household_income": "78270",
+    "households_no_internet": "747"
+  },
+  "42101003200": {
+    "name": "Census Tract 32; Philadelphia County; Pennsylvania",
+    "median_household_income": "58920",
+    "households_no_internet": "273"
+  },
+  "42101003300": {
+    "name": "Census Tract 33; Philadelphia County; Pennsylvania",
+    "median_household_income": "56923",
+    "households_no_internet": "342"
+  },
+  "42101003600": {
+    "name": "Census Tract 36; Philadelphia County; Pennsylvania",
+    "median_household_income": "40271",
+    "households_no_internet": "470"
+  },
+  "42101003701": {
+    "name": "Census Tract 37.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "59837",
+    "households_no_internet": "243"
+  },
+  "42101003702": {
+    "name": "Census Tract 37.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "49493",
+    "households_no_internet": "141"
+  },
+  "42101003800": {
+    "name": "Census Tract 38; Philadelphia County; Pennsylvania",
+    "median_household_income": "90221",
+    "households_no_internet": "103"
+  },
+  "42101003901": {
+    "name": "Census Tract 39.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "61984",
+    "households_no_internet": "469"
+  },
+  "42101003902": {
+    "name": "Census Tract 39.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "78582",
+    "households_no_internet": "248"
+  },
+  "42101004001": {
+    "name": "Census Tract 40.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "61583",
+    "households_no_internet": "117"
+  },
+  "42101004002": {
+    "name": "Census Tract 40.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "82834",
+    "households_no_internet": "219"
+  },
+  "42101004101": {
+    "name": "Census Tract 41.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "67992",
+    "households_no_internet": "232"
+  },
+  "42101004103": {
+    "name": "Census Tract 41.03; Philadelphia County; Pennsylvania",
+    "median_household_income": "51450",
+    "households_no_internet": "152"
+  },
+  "42101004104": {
+    "name": "Census Tract 41.04; Philadelphia County; Pennsylvania",
+    "median_household_income": "66648",
+    "households_no_internet": "159"
+  },
+  "42101004201": {
+    "name": "Census Tract 42.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "88095",
+    "households_no_internet": "99"
+  },
+  "42101004202": {
+    "name": "Census Tract 42.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "68419",
+    "households_no_internet": "175"
+  },
+  "42101005400": {
+    "name": "Census Tract 54; Philadelphia County; Pennsylvania",
+    "median_household_income": "60000",
+    "households_no_internet": "22"
+  },
+  "42101005500": {
+    "name": "Census Tract 55; Philadelphia County; Pennsylvania",
+    "median_household_income": "62616",
+    "households_no_internet": "202"
+  },
+  "42101005600": {
+    "name": "Census Tract 56; Philadelphia County; Pennsylvania",
+    "median_household_income": "34523",
+    "households_no_internet": "97"
+  },
+  "42101006000": {
+    "name": "Census Tract 60; Philadelphia County; Pennsylvania",
+    "median_household_income": "46446",
+    "households_no_internet": "367"
+  },
+  "42101006100": {
+    "name": "Census Tract 61; Philadelphia County; Pennsylvania",
+    "median_household_income": "41325",
+    "households_no_internet": "139"
+  },
+  "42101006200": {
+    "name": "Census Tract 62; Philadelphia County; Pennsylvania",
+    "median_household_income": "45502",
+    "households_no_internet": "88"
+  },
+  "42101006300": {
+    "name": "Census Tract 63; Philadelphia County; Pennsylvania",
+    "median_household_income": "32347",
+    "households_no_internet": "376"
+  },
+  "42101006400": {
+    "name": "Census Tract 64; Philadelphia County; Pennsylvania",
+    "median_household_income": "38032",
+    "households_no_internet": "111"
+  },
+  "42101006500": {
+    "name": "Census Tract 65; Philadelphia County; Pennsylvania",
+    "median_household_income": "43081",
+    "households_no_internet": "374"
+  },
+  "42101006600": {
+    "name": "Census Tract 66; Philadelphia County; Pennsylvania",
+    "median_household_income": "32946",
+    "households_no_internet": "601"
+  },
+  "42101006700": {
+    "name": "Census Tract 67; Philadelphia County; Pennsylvania",
+    "median_household_income": "41581",
+    "households_no_internet": "606"
+  },
+  "42101007000": {
+    "name": "Census Tract 70; Philadelphia County; Pennsylvania",
+    "median_household_income": "38158",
+    "households_no_internet": "311"
+  },
+  "42101007101": {
+    "name": "Census Tract 71.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "40046",
+    "households_no_internet": "242"
+  },
+  "42101007102": {
+    "name": "Census Tract 71.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "34291",
+    "households_no_internet": "497"
+  },
+  "42101007200": {
+    "name": "Census Tract 72; Philadelphia County; Pennsylvania",
+    "median_household_income": "41226",
+    "households_no_internet": "367"
+  },
+  "42101007300": {
+    "name": "Census Tract 73; Philadelphia County; Pennsylvania",
+    "median_household_income": "61488",
+    "households_no_internet": "90"
+  },
+  "42101007400": {
+    "name": "Census Tract 74; Philadelphia County; Pennsylvania",
+    "median_household_income": "39547",
+    "households_no_internet": "360"
+  },
+  "42101007700": {
+    "name": "Census Tract 77; Philadelphia County; Pennsylvania",
+    "median_household_income": "48581",
+    "households_no_internet": "32"
+  },
+  "42101007800": {
+    "name": "Census Tract 78; Philadelphia County; Pennsylvania",
+    "median_household_income": "61205",
+    "households_no_internet": "82"
+  },
+  "42101007900": {
+    "name": "Census Tract 79; Philadelphia County; Pennsylvania",
+    "median_household_income": "79800",
+    "households_no_internet": "84"
+  },
+  "42101008000": {
+    "name": "Census Tract 80; Philadelphia County; Pennsylvania",
+    "median_household_income": "63906",
+    "households_no_internet": "191"
+  },
+  "42101008101": {
+    "name": "Census Tract 81.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "48803",
+    "households_no_internet": "135"
+  },
+  "42101008102": {
+    "name": "Census Tract 81.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "45888",
+    "households_no_internet": "361"
+  },
+  "42101008200": {
+    "name": "Census Tract 82; Philadelphia County; Pennsylvania",
+    "median_household_income": "32333",
+    "households_no_internet": "658"
+  },
+  "42101008301": {
+    "name": "Census Tract 83.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "38713",
+    "households_no_internet": "419"
+  },
+  "42101008302": {
+    "name": "Census Tract 83.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "30922",
+    "households_no_internet": "397"
+  },
+  "42101008400": {
+    "name": "Census Tract 84; Philadelphia County; Pennsylvania",
+    "median_household_income": "47008",
+    "households_no_internet": "130"
+  },
+  "42101008500": {
+    "name": "Census Tract 85; Philadelphia County; Pennsylvania",
+    "median_household_income": "45397",
+    "households_no_internet": "432"
+  },
+  "42101008601": {
+    "name": "Census Tract 86.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "79367",
+    "households_no_internet": "69"
+  },
+  "42101008602": {
+    "name": "Census Tract 86.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "31342",
+    "households_no_internet": "140"
+  },
+  "42101008701": {
+    "name": "Census Tract 87.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "59722",
+    "households_no_internet": "44"
+  },
+  "42101008702": {
+    "name": "Census Tract 87.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "36071",
+    "households_no_internet": "21"
+  },
+  "42101008801": {
+    "name": "Census Tract 88.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "36574",
+    "households_no_internet": "0"
+  },
+  "42101008802": {
+    "name": "Census Tract 88.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "21064",
+    "households_no_internet": "67"
+  },
+  "42101009000": {
+    "name": "Census Tract 90; Philadelphia County; Pennsylvania",
+    "median_household_income": "37674",
+    "households_no_internet": "34"
+  },
+  "42101009100": {
+    "name": "Census Tract 91; Philadelphia County; Pennsylvania",
+    "median_household_income": "27266",
+    "households_no_internet": "237"
+  },
+  "42101009200": {
+    "name": "Census Tract 92; Philadelphia County; Pennsylvania",
+    "median_household_income": "43839",
+    "households_no_internet": "79"
+  },
+  "42101009300": {
+    "name": "Census Tract 93; Philadelphia County; Pennsylvania",
+    "median_household_income": "33509",
+    "households_no_internet": "324"
+  },
+  "42101009400": {
+    "name": "Census Tract 94; Philadelphia County; Pennsylvania",
+    "median_household_income": "26338",
+    "households_no_internet": "464"
+  },
+  "42101009500": {
+    "name": "Census Tract 95; Philadelphia County; Pennsylvania",
+    "median_household_income": "34652",
+    "households_no_internet": "380"
+  },
+  "42101009600": {
+    "name": "Census Tract 96; Philadelphia County; Pennsylvania",
+    "median_household_income": "50786",
+    "households_no_internet": "312"
+  },
+  "42101009801": {
+    "name": "Census Tract 98.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "71029",
+    "households_no_internet": "80"
+  },
+  "42101009802": {
+    "name": "Census Tract 98.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "72365",
+    "households_no_internet": "67"
+  },
+  "42101010000": {
+    "name": "Census Tract 100; Philadelphia County; Pennsylvania",
+    "median_household_income": "51734",
+    "households_no_internet": "191"
+  },
+  "42101010100": {
+    "name": "Census Tract 101; Philadelphia County; Pennsylvania",
+    "median_household_income": "44144",
+    "households_no_internet": "783"
+  },
+  "42101010200": {
+    "name": "Census Tract 102; Philadelphia County; Pennsylvania",
+    "median_household_income": "29375",
+    "households_no_internet": "334"
+  },
+  "42101010300": {
+    "name": "Census Tract 103; Philadelphia County; Pennsylvania",
+    "median_household_income": "33420",
+    "households_no_internet": "159"
+  },
+  "42101010400": {
+    "name": "Census Tract 104; Philadelphia County; Pennsylvania",
+    "median_household_income": "33804",
+    "households_no_internet": "155"
+  },
+  "42101010500": {
+    "name": "Census Tract 105; Philadelphia County; Pennsylvania",
+    "median_household_income": "37708",
+    "households_no_internet": "267"
+  },
+  "42101010600": {
+    "name": "Census Tract 106; Philadelphia County; Pennsylvania",
+    "median_household_income": "25000",
+    "households_no_internet": "151"
+  },
+  "42101010700": {
+    "name": "Census Tract 107; Philadelphia County; Pennsylvania",
+    "median_household_income": "37917",
+    "households_no_internet": "95"
+  },
+  "42101010800": {
+    "name": "Census Tract 108; Philadelphia County; Pennsylvania",
+    "median_household_income": "29142",
+    "households_no_internet": "226"
+  },
+  "42101010900": {
+    "name": "Census Tract 109; Philadelphia County; Pennsylvania",
+    "median_household_income": "31341",
+    "households_no_internet": "133"
+  },
+  "42101011000": {
+    "name": "Census Tract 110; Philadelphia County; Pennsylvania",
+    "median_household_income": "14983",
+    "households_no_internet": "275"
+  },
+  "42101011100": {
+    "name": "Census Tract 111; Philadelphia County; Pennsylvania",
+    "median_household_income": "45519",
+    "households_no_internet": "314"
+  },
+  "42101011200": {
+    "name": "Census Tract 112; Philadelphia County; Pennsylvania",
+    "median_household_income": "28393",
+    "households_no_internet": "289"
+  },
+  "42101011300": {
+    "name": "Census Tract 113; Philadelphia County; Pennsylvania",
+    "median_household_income": "38858",
+    "households_no_internet": "241"
+  },
+  "42101011400": {
+    "name": "Census Tract 114; Philadelphia County; Pennsylvania",
+    "median_household_income": "40497",
+    "households_no_internet": "495"
+  },
+  "42101011500": {
+    "name": "Census Tract 115; Philadelphia County; Pennsylvania",
+    "median_household_income": "81154",
+    "households_no_internet": "153"
+  },
+  "42101011700": {
+    "name": "Census Tract 117; Philadelphia County; Pennsylvania",
+    "median_household_income": "103750",
+    "households_no_internet": "12"
+  },
+  "42101011800": {
+    "name": "Census Tract 118; Philadelphia County; Pennsylvania",
+    "median_household_income": "41649",
+    "households_no_internet": "88"
+  },
+  "42101011900": {
+    "name": "Census Tract 119; Philadelphia County; Pennsylvania",
+    "median_household_income": "61311",
+    "households_no_internet": "493"
+  },
+  "42101012000": {
+    "name": "Census Tract 120; Philadelphia County; Pennsylvania",
+    "median_household_income": "65331",
+    "households_no_internet": "36"
+  },
+  "42101012100": {
+    "name": "Census Tract 121; Philadelphia County; Pennsylvania",
+    "median_household_income": "51555",
+    "households_no_internet": "228"
+  },
+  "42101012201": {
+    "name": "Census Tract 122.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "39608",
+    "households_no_internet": "313"
+  },
+  "42101012203": {
+    "name": "Census Tract 122.03; Philadelphia County; Pennsylvania",
+    "median_household_income": "63750",
+    "households_no_internet": "10"
+  },
+  "42101012204": {
+    "name": "Census Tract 122.04; Philadelphia County; Pennsylvania",
+    "median_household_income": "48000",
+    "households_no_internet": "111"
+  },
+  "42101012501": {
+    "name": "Census Tract 125.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "79694",
+    "households_no_internet": "68"
+  },
+  "42101012502": {
+    "name": "Census Tract 125.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "88936",
+    "households_no_internet": "287"
+  },
+  "42101013100": {
+    "name": "Census Tract 131; Philadelphia County; Pennsylvania",
+    "median_household_income": "32083",
+    "households_no_internet": "85"
+  },
+  "42101013200": {
+    "name": "Census Tract 132; Philadelphia County; Pennsylvania",
+    "median_household_income": "41898",
+    "households_no_internet": "282"
+  },
+  "42101013300": {
+    "name": "Census Tract 133; Philadelphia County; Pennsylvania",
+    "median_household_income": "88264",
+    "households_no_internet": "42"
+  },
+  "42101013401": {
+    "name": "Census Tract 134.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "126333",
+    "households_no_internet": "56"
+  },
+  "42101013402": {
+    "name": "Census Tract 134.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "89669",
+    "households_no_internet": "14"
+  },
+  "42101013500": {
+    "name": "Census Tract 135; Philadelphia County; Pennsylvania",
+    "median_household_income": "143636",
+    "households_no_internet": "16"
+  },
+  "42101013601": {
+    "name": "Census Tract 136.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "107019",
+    "households_no_internet": "34"
+  },
+  "42101013602": {
+    "name": "Census Tract 136.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "116375",
+    "households_no_internet": "46"
+  },
+  "42101013701": {
+    "name": "Census Tract 137.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "92337",
+    "households_no_internet": "17"
+  },
+  "42101013702": {
+    "name": "Census Tract 137.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "76000",
+    "households_no_internet": "280"
+  },
+  "42101013800": {
+    "name": "Census Tract 138; Philadelphia County; Pennsylvania",
+    "median_household_income": "68864",
+    "households_no_internet": "66"
+  },
+  "42101013900": {
+    "name": "Census Tract 139; Philadelphia County; Pennsylvania",
+    "median_household_income": "41042",
+    "households_no_internet": "78"
+  },
+  "42101014000": {
+    "name": "Census Tract 140; Philadelphia County; Pennsylvania",
+    "median_household_income": "59375",
+    "households_no_internet": "170"
+  },
+  "42101014100": {
+    "name": "Census Tract 141; Philadelphia County; Pennsylvania",
+    "median_household_income": "21081",
+    "households_no_internet": "251"
+  },
+  "42101014201": {
+    "name": "Census Tract 142.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "126809",
+    "households_no_internet": "11"
+  },
+  "42101014202": {
+    "name": "Census Tract 142.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "127774",
+    "households_no_internet": "0"
+  },
+  "42101014300": {
+    "name": "Census Tract 143; Philadelphia County; Pennsylvania",
+    "median_household_income": "118239",
+    "households_no_internet": "32"
+  },
+  "42101014400": {
+    "name": "Census Tract 144; Philadelphia County; Pennsylvania",
+    "median_household_income": "131027",
+    "households_no_internet": "312"
+  },
+  "42101014500": {
+    "name": "Census Tract 145; Philadelphia County; Pennsylvania",
+    "median_household_income": "33550",
+    "households_no_internet": "149"
+  },
+  "42101014600": {
+    "name": "Census Tract 146; Philadelphia County; Pennsylvania",
+    "median_household_income": "39583",
+    "households_no_internet": "149"
+  },
+  "42101014700": {
+    "name": "Census Tract 147; Philadelphia County; Pennsylvania",
+    "median_household_income": "18041",
+    "households_no_internet": "0"
+  },
+  "42101014800": {
+    "name": "Census Tract 148; Philadelphia County; Pennsylvania",
+    "median_household_income": "-666666666",
+    "households_no_internet": "130"
+  },
+  "42101014900": {
+    "name": "Census Tract 149; Philadelphia County; Pennsylvania",
+    "median_household_income": "29458",
+    "households_no_internet": "275"
+  },
+  "42101015101": {
+    "name": "Census Tract 151.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "45963",
+    "households_no_internet": "127"
+  },
+  "42101015102": {
+    "name": "Census Tract 151.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "23924",
+    "households_no_internet": "374"
+  },
+  "42101015200": {
+    "name": "Census Tract 152; Philadelphia County; Pennsylvania",
+    "median_household_income": "54416",
+    "households_no_internet": "980"
+  },
+  "42101015300": {
+    "name": "Census Tract 153; Philadelphia County; Pennsylvania",
+    "median_household_income": "28037",
+    "households_no_internet": "304"
+  },
+  "42101015600": {
+    "name": "Census Tract 156; Philadelphia County; Pennsylvania",
+    "median_household_income": "43750",
+    "households_no_internet": "97"
+  },
+  "42101015700": {
+    "name": "Census Tract 157; Philadelphia County; Pennsylvania",
+    "median_household_income": "82500",
+    "households_no_internet": "228"
+  },
+  "42101015800": {
+    "name": "Census Tract 158; Philadelphia County; Pennsylvania",
+    "median_household_income": "123431",
+    "households_no_internet": "66"
+  },
+  "42101016001": {
+    "name": "Census Tract 160.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "93890",
+    "households_no_internet": "64"
+  },
+  "42101016002": {
+    "name": "Census Tract 160.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "89100",
+    "households_no_internet": "112"
+  },
+  "42101016100": {
+    "name": "Census Tract 161; Philadelphia County; Pennsylvania",
+    "median_household_income": "102794",
+    "households_no_internet": "164"
+  },
+  "42101016200": {
+    "name": "Census Tract 162; Philadelphia County; Pennsylvania",
+    "median_household_income": "34677",
+    "households_no_internet": "92"
+  },
+  "42101016300": {
+    "name": "Census Tract 163; Philadelphia County; Pennsylvania",
+    "median_household_income": "38660",
+    "households_no_internet": "115"
+  },
+  "42101016400": {
+    "name": "Census Tract 164; Philadelphia County; Pennsylvania",
+    "median_household_income": "20915",
+    "households_no_internet": "523"
+  },
+  "42101016500": {
+    "name": "Census Tract 165; Philadelphia County; Pennsylvania",
+    "median_household_income": "26172",
+    "households_no_internet": "168"
+  },
+  "42101016600": {
+    "name": "Census Tract 166; Philadelphia County; Pennsylvania",
+    "median_household_income": "57432",
+    "households_no_internet": "56"
+  },
+  "42101016701": {
+    "name": "Census Tract 167.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "38973",
+    "households_no_internet": "555"
+  },
+  "42101016702": {
+    "name": "Census Tract 167.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "31618",
+    "households_no_internet": "38"
+  },
+  "42101016800": {
+    "name": "Census Tract 168; Philadelphia County; Pennsylvania",
+    "median_household_income": "15267",
+    "households_no_internet": "206"
+  },
+  "42101016901": {
+    "name": "Census Tract 169.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "27479",
+    "households_no_internet": "114"
+  },
+  "42101016902": {
+    "name": "Census Tract 169.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "22880",
+    "households_no_internet": "438"
+  },
+  "42101017000": {
+    "name": "Census Tract 170; Philadelphia County; Pennsylvania",
+    "median_household_income": "51989",
+    "households_no_internet": "112"
+  },
+  "42101017100": {
+    "name": "Census Tract 171; Philadelphia County; Pennsylvania",
+    "median_household_income": "27112",
+    "households_no_internet": "203"
+  },
+  "42101017201": {
+    "name": "Census Tract 172.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "25865",
+    "households_no_internet": "238"
+  },
+  "42101017202": {
+    "name": "Census Tract 172.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "47102",
+    "households_no_internet": "235"
+  },
+  "42101017300": {
+    "name": "Census Tract 173; Philadelphia County; Pennsylvania",
+    "median_household_income": "21210",
+    "households_no_internet": "397"
+  },
+  "42101017400": {
+    "name": "Census Tract 174; Philadelphia County; Pennsylvania",
+    "median_household_income": "32948",
+    "households_no_internet": "326"
+  },
+  "42101017500": {
+    "name": "Census Tract 175; Philadelphia County; Pennsylvania",
+    "median_household_income": "30149",
+    "households_no_internet": "822"
+  },
+  "42101017601": {
+    "name": "Census Tract 176.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "27088",
+    "households_no_internet": "610"
+  },
+  "42101017602": {
+    "name": "Census Tract 176.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "33750",
+    "households_no_internet": "311"
+  },
+  "42101017701": {
+    "name": "Census Tract 177.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "36694",
+    "households_no_internet": "236"
+  },
+  "42101017702": {
+    "name": "Census Tract 177.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "28750",
+    "households_no_internet": "338"
+  },
+  "42101017800": {
+    "name": "Census Tract 178; Philadelphia County; Pennsylvania",
+    "median_household_income": "32009",
+    "households_no_internet": "380"
+  },
+  "42101017900": {
+    "name": "Census Tract 179; Philadelphia County; Pennsylvania",
+    "median_household_income": "46950",
+    "households_no_internet": "328"
+  },
+  "42101018001": {
+    "name": "Census Tract 180.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "59531",
+    "households_no_internet": "259"
+  },
+  "42101018002": {
+    "name": "Census Tract 180.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "68380",
+    "households_no_internet": "355"
+  },
+  "42101018300": {
+    "name": "Census Tract 183; Philadelphia County; Pennsylvania",
+    "median_household_income": "81053",
+    "households_no_internet": "166"
+  },
+  "42101018400": {
+    "name": "Census Tract 184; Philadelphia County; Pennsylvania",
+    "median_household_income": "57633",
+    "households_no_internet": "83"
+  },
+  "42101018801": {
+    "name": "Census Tract 188.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "20010",
+    "households_no_internet": "187"
+  },
+  "42101018802": {
+    "name": "Census Tract 188.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "45570",
+    "households_no_internet": "87"
+  },
+  "42101019000": {
+    "name": "Census Tract 190; Philadelphia County; Pennsylvania",
+    "median_household_income": "45814",
+    "households_no_internet": "392"
+  },
+  "42101019100": {
+    "name": "Census Tract 191; Philadelphia County; Pennsylvania",
+    "median_household_income": "65048",
+    "households_no_internet": "324"
+  },
+  "42101019200": {
+    "name": "Census Tract 192; Philadelphia County; Pennsylvania",
+    "median_household_income": "23239",
+    "households_no_internet": "524"
+  },
+  "42101019501": {
+    "name": "Census Tract 195.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "23031",
+    "households_no_internet": "647"
+  },
+  "42101019502": {
+    "name": "Census Tract 195.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "28205",
+    "households_no_internet": "220"
+  },
+  "42101019700": {
+    "name": "Census Tract 197; Philadelphia County; Pennsylvania",
+    "median_household_income": "27979",
+    "households_no_internet": "83"
+  },
+  "42101019800": {
+    "name": "Census Tract 198; Philadelphia County; Pennsylvania",
+    "median_household_income": "37574",
+    "households_no_internet": "404"
+  },
+  "42101019900": {
+    "name": "Census Tract 199; Philadelphia County; Pennsylvania",
+    "median_household_income": "25810",
+    "households_no_internet": "485"
+  },
+  "42101020000": {
+    "name": "Census Tract 200; Philadelphia County; Pennsylvania",
+    "median_household_income": "17531",
+    "households_no_internet": "108"
+  },
+  "42101020101": {
+    "name": "Census Tract 201.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "26256",
+    "households_no_internet": "437"
+  },
+  "42101020102": {
+    "name": "Census Tract 201.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "39288",
+    "households_no_internet": "201"
+  },
+  "42101020200": {
+    "name": "Census Tract 202; Philadelphia County; Pennsylvania",
+    "median_household_income": "34576",
+    "households_no_internet": "176"
+  },
+  "42101020300": {
+    "name": "Census Tract 203; Philadelphia County; Pennsylvania",
+    "median_household_income": "41020",
+    "households_no_internet": "279"
+  },
+  "42101020400": {
+    "name": "Census Tract 204; Philadelphia County; Pennsylvania",
+    "median_household_income": "43306",
+    "households_no_internet": "314"
+  },
+  "42101020500": {
+    "name": "Census Tract 205; Philadelphia County; Pennsylvania",
+    "median_household_income": "-666666666",
+    "households_no_internet": "503"
+  },
+  "42101020600": {
+    "name": "Census Tract 206; Philadelphia County; Pennsylvania",
+    "median_household_income": "62143",
+    "households_no_internet": "77"
+  },
+  "42101020701": {
+    "name": "Census Tract 207.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "118915",
+    "households_no_internet": "88"
+  },
+  "42101020702": {
+    "name": "Census Tract 207.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "158750",
+    "households_no_internet": "64"
+  },
+  "42101020800": {
+    "name": "Census Tract 208; Philadelphia County; Pennsylvania",
+    "median_household_income": "70560",
+    "households_no_internet": "98"
+  },
+  "42101020900": {
+    "name": "Census Tract 209; Philadelphia County; Pennsylvania",
+    "median_household_income": "104435",
+    "households_no_internet": "116"
+  },
+  "42101021000": {
+    "name": "Census Tract 210; Philadelphia County; Pennsylvania",
+    "median_household_income": "87660",
+    "households_no_internet": "102"
+  },
+  "42101021100": {
+    "name": "Census Tract 211; Philadelphia County; Pennsylvania",
+    "median_household_income": "86845",
+    "households_no_internet": "13"
+  },
+  "42101021200": {
+    "name": "Census Tract 212; Philadelphia County; Pennsylvania",
+    "median_household_income": "101020",
+    "households_no_internet": "27"
+  },
+  "42101021300": {
+    "name": "Census Tract 213; Philadelphia County; Pennsylvania",
+    "median_household_income": "94675",
+    "households_no_internet": "124"
+  },
+  "42101021400": {
+    "name": "Census Tract 214; Philadelphia County; Pennsylvania",
+    "median_household_income": "84861",
+    "households_no_internet": "56"
+  },
+  "42101021500": {
+    "name": "Census Tract 215; Philadelphia County; Pennsylvania",
+    "median_household_income": "109102",
+    "households_no_internet": "94"
+  },
+  "42101021600": {
+    "name": "Census Tract 216; Philadelphia County; Pennsylvania",
+    "median_household_income": "95200",
+    "households_no_internet": "56"
+  },
+  "42101021700": {
+    "name": "Census Tract 217; Philadelphia County; Pennsylvania",
+    "median_household_income": "86989",
+    "households_no_internet": "276"
+  },
+  "42101021800": {
+    "name": "Census Tract 218; Philadelphia County; Pennsylvania",
+    "median_household_income": "74242",
+    "households_no_internet": "149"
+  },
+  "42101021900": {
+    "name": "Census Tract 219; Philadelphia County; Pennsylvania",
+    "median_household_income": "71250",
+    "households_no_internet": "55"
+  },
+  "42101022000": {
+    "name": "Census Tract 220; Philadelphia County; Pennsylvania",
+    "median_household_income": "97321",
+    "households_no_internet": "69"
+  },
+  "42101023100": {
+    "name": "Census Tract 231; Philadelphia County; Pennsylvania",
+    "median_household_income": "170625",
+    "households_no_internet": "17"
+  },
+  "42101023500": {
+    "name": "Census Tract 235; Philadelphia County; Pennsylvania",
+    "median_household_income": "118750",
+    "households_no_internet": "26"
+  },
+  "42101023600": {
+    "name": "Census Tract 236; Philadelphia County; Pennsylvania",
+    "median_household_income": "101458",
+    "households_no_internet": "27"
+  },
+  "42101023700": {
+    "name": "Census Tract 237; Philadelphia County; Pennsylvania",
+    "median_household_income": "80891",
+    "households_no_internet": "90"
+  },
+  "42101023800": {
+    "name": "Census Tract 238; Philadelphia County; Pennsylvania",
+    "median_household_income": "59534",
+    "households_no_internet": "155"
+  },
+  "42101023900": {
+    "name": "Census Tract 239; Philadelphia County; Pennsylvania",
+    "median_household_income": "-666666666",
+    "households_no_internet": "190"
+  },
+  "42101024000": {
+    "name": "Census Tract 240; Philadelphia County; Pennsylvania",
+    "median_household_income": "61450",
+    "households_no_internet": "73"
+  },
+  "42101024100": {
+    "name": "Census Tract 241; Philadelphia County; Pennsylvania",
+    "median_household_income": "16042",
+    "households_no_internet": "240"
+  },
+  "42101024200": {
+    "name": "Census Tract 242; Philadelphia County; Pennsylvania",
+    "median_household_income": "33172",
+    "households_no_internet": "297"
+  },
+  "42101024300": {
+    "name": "Census Tract 243; Philadelphia County; Pennsylvania",
+    "median_household_income": "48617",
+    "households_no_internet": "320"
+  },
+  "42101024400": {
+    "name": "Census Tract 244; Philadelphia County; Pennsylvania",
+    "median_household_income": "56912",
+    "households_no_internet": "86"
+  },
+  "42101024500": {
+    "name": "Census Tract 245; Philadelphia County; Pennsylvania",
+    "median_household_income": "19589",
+    "households_no_internet": "364"
+  },
+  "42101024600": {
+    "name": "Census Tract 246; Philadelphia County; Pennsylvania",
+    "median_household_income": "34091",
+    "households_no_internet": "295"
+  },
+  "42101024700": {
+    "name": "Census Tract 247; Philadelphia County; Pennsylvania",
+    "median_household_income": "40714",
+    "households_no_internet": "151"
+  },
+  "42101024800": {
+    "name": "Census Tract 248; Philadelphia County; Pennsylvania",
+    "median_household_income": "43347",
+    "households_no_internet": "101"
+  },
+  "42101024900": {
+    "name": "Census Tract 249; Philadelphia County; Pennsylvania",
+    "median_household_income": "28855",
+    "households_no_internet": "240"
+  },
+  "42101025200": {
+    "name": "Census Tract 252; Philadelphia County; Pennsylvania",
+    "median_household_income": "27675",
+    "households_no_internet": "424"
+  },
+  "42101025300": {
+    "name": "Census Tract 253; Philadelphia County; Pennsylvania",
+    "median_household_income": "52207",
+    "households_no_internet": "169"
+  },
+  "42101025400": {
+    "name": "Census Tract 254; Philadelphia County; Pennsylvania",
+    "median_household_income": "70234",
+    "households_no_internet": "95"
+  },
+  "42101025500": {
+    "name": "Census Tract 255; Philadelphia County; Pennsylvania",
+    "median_household_income": "71389",
+    "households_no_internet": "60"
+  },
+  "42101025600": {
+    "name": "Census Tract 256; Philadelphia County; Pennsylvania",
+    "median_household_income": "99944",
+    "households_no_internet": "21"
+  },
+  "42101025700": {
+    "name": "Census Tract 257; Philadelphia County; Pennsylvania",
+    "median_household_income": "62516",
+    "households_no_internet": "205"
+  },
+  "42101025800": {
+    "name": "Census Tract 258; Philadelphia County; Pennsylvania",
+    "median_household_income": "48100",
+    "households_no_internet": "261"
+  },
+  "42101025900": {
+    "name": "Census Tract 259; Philadelphia County; Pennsylvania",
+    "median_household_income": "54229",
+    "households_no_internet": "187"
+  },
+  "42101026000": {
+    "name": "Census Tract 260; Philadelphia County; Pennsylvania",
+    "median_household_income": "62651",
+    "households_no_internet": "71"
+  },
+  "42101026100": {
+    "name": "Census Tract 261; Philadelphia County; Pennsylvania",
+    "median_household_income": "54132",
+    "households_no_internet": "109"
+  },
+  "42101026200": {
+    "name": "Census Tract 262; Philadelphia County; Pennsylvania",
+    "median_household_income": "71943",
+    "households_no_internet": "193"
+  },
+  "42101026301": {
+    "name": "Census Tract 263.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "57992",
+    "households_no_internet": "60"
+  },
+  "42101026302": {
+    "name": "Census Tract 263.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "70182",
+    "households_no_internet": "85"
+  },
+  "42101026400": {
+    "name": "Census Tract 264; Philadelphia County; Pennsylvania",
+    "median_household_income": "60107",
+    "households_no_internet": "168"
+  },
+  "42101026500": {
+    "name": "Census Tract 265; Philadelphia County; Pennsylvania",
+    "median_household_income": "46181",
+    "households_no_internet": "217"
+  },
+  "42101026600": {
+    "name": "Census Tract 266; Philadelphia County; Pennsylvania",
+    "median_household_income": "39788",
+    "households_no_internet": "425"
+  },
+  "42101026700": {
+    "name": "Census Tract 267; Philadelphia County; Pennsylvania",
+    "median_household_income": "45667",
+    "households_no_internet": "623"
+  },
+  "42101026800": {
+    "name": "Census Tract 268; Philadelphia County; Pennsylvania",
+    "median_household_income": "45768",
+    "households_no_internet": "357"
+  },
+  "42101026900": {
+    "name": "Census Tract 269; Philadelphia County; Pennsylvania",
+    "median_household_income": "83857",
+    "households_no_internet": "4"
+  },
+  "42101027000": {
+    "name": "Census Tract 270; Philadelphia County; Pennsylvania",
+    "median_household_income": "91882",
+    "households_no_internet": "27"
+  },
+  "42101027100": {
+    "name": "Census Tract 271; Philadelphia County; Pennsylvania",
+    "median_household_income": "58296",
+    "households_no_internet": "24"
+  },
+  "42101027200": {
+    "name": "Census Tract 272; Philadelphia County; Pennsylvania",
+    "median_household_income": "61146",
+    "households_no_internet": "21"
+  },
+  "42101027300": {
+    "name": "Census Tract 273; Philadelphia County; Pennsylvania",
+    "median_household_income": "40618",
+    "households_no_internet": "516"
+  },
+  "42101027401": {
+    "name": "Census Tract 274.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "46952",
+    "households_no_internet": "191"
+  },
+  "42101027402": {
+    "name": "Census Tract 274.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "61430",
+    "households_no_internet": "214"
+  },
+  "42101027500": {
+    "name": "Census Tract 275; Philadelphia County; Pennsylvania",
+    "median_household_income": "54261",
+    "households_no_internet": "300"
+  },
+  "42101027600": {
+    "name": "Census Tract 276; Philadelphia County; Pennsylvania",
+    "median_household_income": "44802",
+    "households_no_internet": "88"
+  },
+  "42101027700": {
+    "name": "Census Tract 277; Philadelphia County; Pennsylvania",
+    "median_household_income": "33944",
+    "households_no_internet": "702"
+  },
+  "42101027800": {
+    "name": "Census Tract 278; Philadelphia County; Pennsylvania",
+    "median_household_income": "37820",
+    "households_no_internet": "388"
+  },
+  "42101027901": {
+    "name": "Census Tract 279.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "37813",
+    "households_no_internet": "238"
+  },
+  "42101027902": {
+    "name": "Census Tract 279.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "43205",
+    "households_no_internet": "212"
+  },
+  "42101028000": {
+    "name": "Census Tract 280; Philadelphia County; Pennsylvania",
+    "median_household_income": "34143",
+    "households_no_internet": "368"
+  },
+  "42101028100": {
+    "name": "Census Tract 281; Philadelphia County; Pennsylvania",
+    "median_household_income": "48750",
+    "households_no_internet": "208"
+  },
+  "42101028200": {
+    "name": "Census Tract 282; Philadelphia County; Pennsylvania",
+    "median_household_income": "20674",
+    "households_no_internet": "855"
+  },
+  "42101028300": {
+    "name": "Census Tract 283; Philadelphia County; Pennsylvania",
+    "median_household_income": "33307",
+    "households_no_internet": "669"
+  },
+  "42101028400": {
+    "name": "Census Tract 284; Philadelphia County; Pennsylvania",
+    "median_household_income": "24872",
+    "households_no_internet": "226"
+  },
+  "42101028500": {
+    "name": "Census Tract 285; Philadelphia County; Pennsylvania",
+    "median_household_income": "70417",
+    "households_no_internet": "71"
+  },
+  "42101028600": {
+    "name": "Census Tract 286; Philadelphia County; Pennsylvania",
+    "median_household_income": "58350",
+    "households_no_internet": "226"
+  },
+  "42101028700": {
+    "name": "Census Tract 287; Philadelphia County; Pennsylvania",
+    "median_household_income": "32609",
+    "households_no_internet": "59"
+  },
+  "42101028800": {
+    "name": "Census Tract 288; Philadelphia County; Pennsylvania",
+    "median_household_income": "40137",
+    "households_no_internet": "297"
+  },
+  "42101028901": {
+    "name": "Census Tract 289.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "31434",
+    "households_no_internet": "325"
+  },
+  "42101028902": {
+    "name": "Census Tract 289.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "38759",
+    "households_no_internet": "180"
+  },
+  "42101029000": {
+    "name": "Census Tract 290; Philadelphia County; Pennsylvania",
+    "median_household_income": "39878",
+    "households_no_internet": "364"
+  },
+  "42101029100": {
+    "name": "Census Tract 291; Philadelphia County; Pennsylvania",
+    "median_household_income": "32746",
+    "households_no_internet": "138"
+  },
+  "42101029200": {
+    "name": "Census Tract 292; Philadelphia County; Pennsylvania",
+    "median_household_income": "82784",
+    "households_no_internet": "91"
+  },
+  "42101029300": {
+    "name": "Census Tract 293; Philadelphia County; Pennsylvania",
+    "median_household_income": "63048",
+    "households_no_internet": "208"
+  },
+  "42101029400": {
+    "name": "Census Tract 294; Philadelphia County; Pennsylvania",
+    "median_household_income": "22649",
+    "households_no_internet": "397"
+  },
+  "42101029800": {
+    "name": "Census Tract 298; Philadelphia County; Pennsylvania",
+    "median_household_income": "37188",
+    "households_no_internet": "264"
+  },
+  "42101029900": {
+    "name": "Census Tract 299; Philadelphia County; Pennsylvania",
+    "median_household_income": "33852",
+    "households_no_internet": "161"
+  },
+  "42101030000": {
+    "name": "Census Tract 300; Philadelphia County; Pennsylvania",
+    "median_household_income": "33205",
+    "households_no_internet": "701"
+  },
+  "42101030100": {
+    "name": "Census Tract 301; Philadelphia County; Pennsylvania",
+    "median_household_income": "23897",
+    "households_no_internet": "711"
+  },
+  "42101030200": {
+    "name": "Census Tract 302; Philadelphia County; Pennsylvania",
+    "median_household_income": "51000",
+    "households_no_internet": "89"
+  },
+  "42101030501": {
+    "name": "Census Tract 305.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "43673",
+    "households_no_internet": "146"
+  },
+  "42101030502": {
+    "name": "Census Tract 305.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "62270",
+    "households_no_internet": "134"
+  },
+  "42101030600": {
+    "name": "Census Tract 306; Philadelphia County; Pennsylvania",
+    "median_household_income": "58231",
+    "households_no_internet": "633"
+  },
+  "42101030700": {
+    "name": "Census Tract 307; Philadelphia County; Pennsylvania",
+    "median_household_income": "56641",
+    "households_no_internet": "150"
+  },
+  "42101030800": {
+    "name": "Census Tract 308; Philadelphia County; Pennsylvania",
+    "median_household_income": "59732",
+    "households_no_internet": "261"
+  },
+  "42101030900": {
+    "name": "Census Tract 309; Philadelphia County; Pennsylvania",
+    "median_household_income": "53088",
+    "households_no_internet": "219"
+  },
+  "42101031000": {
+    "name": "Census Tract 310; Philadelphia County; Pennsylvania",
+    "median_household_income": "53914",
+    "households_no_internet": "93"
+  },
+  "42101031101": {
+    "name": "Census Tract 311.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "48663",
+    "households_no_internet": "172"
+  },
+  "42101031102": {
+    "name": "Census Tract 311.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "50927",
+    "households_no_internet": "51"
+  },
+  "42101031200": {
+    "name": "Census Tract 312; Philadelphia County; Pennsylvania",
+    "median_household_income": "56662",
+    "households_no_internet": "256"
+  },
+  "42101031300": {
+    "name": "Census Tract 313; Philadelphia County; Pennsylvania",
+    "median_household_income": "66521",
+    "households_no_internet": "401"
+  },
+  "42101031401": {
+    "name": "Census Tract 314.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "55864",
+    "households_no_internet": "213"
+  },
+  "42101031402": {
+    "name": "Census Tract 314.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "53633",
+    "households_no_internet": "204"
+  },
+  "42101031501": {
+    "name": "Census Tract 315.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "57310",
+    "households_no_internet": "244"
+  },
+  "42101031502": {
+    "name": "Census Tract 315.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "44593",
+    "households_no_internet": "190"
+  },
+  "42101031600": {
+    "name": "Census Tract 316; Philadelphia County; Pennsylvania",
+    "median_household_income": "53167",
+    "households_no_internet": "202"
+  },
+  "42101031700": {
+    "name": "Census Tract 317; Philadelphia County; Pennsylvania",
+    "median_household_income": "36758",
+    "households_no_internet": "265"
+  },
+  "42101031800": {
+    "name": "Census Tract 318; Philadelphia County; Pennsylvania",
+    "median_household_income": "58607",
+    "households_no_internet": "172"
+  },
+  "42101031900": {
+    "name": "Census Tract 319; Philadelphia County; Pennsylvania",
+    "median_household_income": "47843",
+    "households_no_internet": "102"
+  },
+  "42101032000": {
+    "name": "Census Tract 320; Philadelphia County; Pennsylvania",
+    "median_household_income": "58213",
+    "households_no_internet": "229"
+  },
+  "42101032100": {
+    "name": "Census Tract 321; Philadelphia County; Pennsylvania",
+    "median_household_income": "48088",
+    "households_no_internet": "252"
+  },
+  "42101032300": {
+    "name": "Census Tract 323; Philadelphia County; Pennsylvania",
+    "median_household_income": "34667",
+    "households_no_internet": "297"
+  },
+  "42101032500": {
+    "name": "Census Tract 325; Philadelphia County; Pennsylvania",
+    "median_household_income": "50876",
+    "households_no_internet": "162"
+  },
+  "42101032600": {
+    "name": "Census Tract 326; Philadelphia County; Pennsylvania",
+    "median_household_income": "70711",
+    "households_no_internet": "167"
+  },
+  "42101032900": {
+    "name": "Census Tract 329; Philadelphia County; Pennsylvania",
+    "median_household_income": "46914",
+    "households_no_internet": "133"
+  },
+  "42101033000": {
+    "name": "Census Tract 330; Philadelphia County; Pennsylvania",
+    "median_household_income": "68227",
+    "households_no_internet": "272"
+  },
+  "42101033101": {
+    "name": "Census Tract 331.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "70882",
+    "households_no_internet": "103"
+  },
+  "42101033102": {
+    "name": "Census Tract 331.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "83145",
+    "households_no_internet": "156"
+  },
+  "42101033200": {
+    "name": "Census Tract 332; Philadelphia County; Pennsylvania",
+    "median_household_income": "80409",
+    "households_no_internet": "74"
+  },
+  "42101033300": {
+    "name": "Census Tract 333; Philadelphia County; Pennsylvania",
+    "median_household_income": "49178",
+    "households_no_internet": "223"
+  },
+  "42101033400": {
+    "name": "Census Tract 334; Philadelphia County; Pennsylvania",
+    "median_household_income": "54267",
+    "households_no_internet": "257"
+  },
+  "42101033500": {
+    "name": "Census Tract 335; Philadelphia County; Pennsylvania",
+    "median_household_income": "56151",
+    "households_no_internet": "194"
+  },
+  "42101033600": {
+    "name": "Census Tract 336; Philadelphia County; Pennsylvania",
+    "median_household_income": "46797",
+    "households_no_internet": "174"
+  },
+  "42101033701": {
+    "name": "Census Tract 337.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "51319",
+    "households_no_internet": "228"
+  },
+  "42101033702": {
+    "name": "Census Tract 337.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "78689",
+    "households_no_internet": "108"
+  },
+  "42101033800": {
+    "name": "Census Tract 338; Philadelphia County; Pennsylvania",
+    "median_household_income": "67160",
+    "households_no_internet": "297"
+  },
+  "42101033900": {
+    "name": "Census Tract 339; Philadelphia County; Pennsylvania",
+    "median_household_income": "55636",
+    "households_no_internet": "218"
+  },
+  "42101034000": {
+    "name": "Census Tract 340; Philadelphia County; Pennsylvania",
+    "median_household_income": "99181",
+    "households_no_internet": "55"
+  },
+  "42101034100": {
+    "name": "Census Tract 341; Philadelphia County; Pennsylvania",
+    "median_household_income": "69623",
+    "households_no_internet": "217"
+  },
+  "42101034200": {
+    "name": "Census Tract 342; Philadelphia County; Pennsylvania",
+    "median_household_income": "62686",
+    "households_no_internet": "142"
+  },
+  "42101034400": {
+    "name": "Census Tract 344; Philadelphia County; Pennsylvania",
+    "median_household_income": "106059",
+    "households_no_internet": "135"
+  },
+  "42101034501": {
+    "name": "Census Tract 345.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "44094",
+    "households_no_internet": "266"
+  },
+  "42101034502": {
+    "name": "Census Tract 345.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "55439",
+    "households_no_internet": "194"
+  },
+  "42101034600": {
+    "name": "Census Tract 346; Philadelphia County; Pennsylvania",
+    "median_household_income": "54737",
+    "households_no_internet": "174"
+  },
+  "42101034701": {
+    "name": "Census Tract 347.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "75765",
+    "households_no_internet": "250"
+  },
+  "42101034702": {
+    "name": "Census Tract 347.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "100129",
+    "households_no_internet": "77"
+  },
+  "42101034801": {
+    "name": "Census Tract 348.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "65673",
+    "households_no_internet": "239"
+  },
+  "42101034802": {
+    "name": "Census Tract 348.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "70417",
+    "households_no_internet": "139"
+  },
+  "42101034803": {
+    "name": "Census Tract 348.03; Philadelphia County; Pennsylvania",
+    "median_household_income": "84336",
+    "households_no_internet": "43"
+  },
+  "42101034900": {
+    "name": "Census Tract 349; Philadelphia County; Pennsylvania",
+    "median_household_income": "59563",
+    "households_no_internet": "474"
+  },
+  "42101035100": {
+    "name": "Census Tract 351; Philadelphia County; Pennsylvania",
+    "median_household_income": "70000",
+    "households_no_internet": "37"
+  },
+  "42101035200": {
+    "name": "Census Tract 352; Philadelphia County; Pennsylvania",
+    "median_household_income": "77500",
+    "households_no_internet": "266"
+  },
+  "42101035301": {
+    "name": "Census Tract 353.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "87083",
+    "households_no_internet": "186"
+  },
+  "42101035302": {
+    "name": "Census Tract 353.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "74000",
+    "households_no_internet": "125"
+  },
+  "42101035500": {
+    "name": "Census Tract 355; Philadelphia County; Pennsylvania",
+    "median_household_income": "65553",
+    "households_no_internet": "369"
+  },
+  "42101035601": {
+    "name": "Census Tract 356.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "59257",
+    "households_no_internet": "357"
+  },
+  "42101035602": {
+    "name": "Census Tract 356.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "105024",
+    "households_no_internet": "176"
+  },
+  "42101035701": {
+    "name": "Census Tract 357.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "59013",
+    "households_no_internet": "287"
+  },
+  "42101035702": {
+    "name": "Census Tract 357.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "63115",
+    "households_no_internet": "139"
+  },
+  "42101035800": {
+    "name": "Census Tract 358; Philadelphia County; Pennsylvania",
+    "median_household_income": "58979",
+    "households_no_internet": "109"
+  },
+  "42101035900": {
+    "name": "Census Tract 359; Philadelphia County; Pennsylvania",
+    "median_household_income": "47593",
+    "households_no_internet": "519"
+  },
+  "42101036000": {
+    "name": "Census Tract 360; Philadelphia County; Pennsylvania",
+    "median_household_income": "60598",
+    "households_no_internet": "169"
+  },
+  "42101036100": {
+    "name": "Census Tract 361; Philadelphia County; Pennsylvania",
+    "median_household_income": "81354",
+    "households_no_internet": "68"
+  },
+  "42101036201": {
+    "name": "Census Tract 362.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "88472",
+    "households_no_internet": "235"
+  },
+  "42101036202": {
+    "name": "Census Tract 362.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "90043",
+    "households_no_internet": "140"
+  },
+  "42101036203": {
+    "name": "Census Tract 362.03; Philadelphia County; Pennsylvania",
+    "median_household_income": "80833",
+    "households_no_internet": "114"
+  },
+  "42101036301": {
+    "name": "Census Tract 363.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "92578",
+    "households_no_internet": "89"
+  },
+  "42101036302": {
+    "name": "Census Tract 363.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "76910",
+    "households_no_internet": "133"
+  },
+  "42101036303": {
+    "name": "Census Tract 363.03; Philadelphia County; Pennsylvania",
+    "median_household_income": "108414",
+    "households_no_internet": "161"
+  },
+  "42101036400": {
+    "name": "Census Tract 364; Philadelphia County; Pennsylvania",
+    "median_household_income": "102143",
+    "households_no_internet": "5"
+  },
+  "42101036501": {
+    "name": "Census Tract 365.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "77910",
+    "households_no_internet": "167"
+  },
+  "42101036502": {
+    "name": "Census Tract 365.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "93879",
+    "households_no_internet": "258"
+  },
+  "42101036600": {
+    "name": "Census Tract 366; Philadelphia County; Pennsylvania",
+    "median_household_income": "156061",
+    "households_no_internet": "53"
+  },
+  "42101036700": {
+    "name": "Census Tract 367; Philadelphia County; Pennsylvania",
+    "median_household_income": "172610",
+    "households_no_internet": "23"
+  },
+  "42101036901": {
+    "name": "Census Tract 369.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "-666666666",
+    "households_no_internet": "0"
+  },
+  "42101036902": {
+    "name": "Census Tract 369.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "29464",
+    "households_no_internet": "54"
+  },
+  "42101037200": {
+    "name": "Census Tract 372; Philadelphia County; Pennsylvania",
+    "median_household_income": "66431",
+    "households_no_internet": "143"
+  },
+  "42101037300": {
+    "name": "Census Tract 373; Philadelphia County; Pennsylvania",
+    "median_household_income": "113974",
+    "households_no_internet": "214"
+  },
+  "42101037500": {
+    "name": "Census Tract 375; Philadelphia County; Pennsylvania",
+    "median_household_income": "76439",
+    "households_no_internet": "22"
+  },
+  "42101037600": {
+    "name": "Census Tract 376; Philadelphia County; Pennsylvania",
+    "median_household_income": "101268",
+    "households_no_internet": "99"
+  },
+  "42101037700": {
+    "name": "Census Tract 377; Philadelphia County; Pennsylvania",
+    "median_household_income": "22244",
+    "households_no_internet": "205"
+  },
+  "42101037800": {
+    "name": "Census Tract 378; Philadelphia County; Pennsylvania",
+    "median_household_income": "60000",
+    "households_no_internet": "180"
+  },
+  "42101037900": {
+    "name": "Census Tract 379; Philadelphia County; Pennsylvania",
+    "median_household_income": "69198",
+    "households_no_internet": "291"
+  },
+  "42101038000": {
+    "name": "Census Tract 380; Philadelphia County; Pennsylvania",
+    "median_household_income": "59167",
+    "households_no_internet": "87"
+  },
+  "42101038100": {
+    "name": "Census Tract 381; Philadelphia County; Pennsylvania",
+    "median_household_income": "36776",
+    "households_no_internet": "26"
+  },
+  "42101038200": {
+    "name": "Census Tract 382; Philadelphia County; Pennsylvania",
+    "median_household_income": "40837",
+    "households_no_internet": "249"
+  },
+  "42101038301": {
+    "name": "Census Tract 383.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "-666666666",
+    "households_no_internet": "207"
+  },
+  "42101038400": {
+    "name": "Census Tract 384; Philadelphia County; Pennsylvania",
+    "median_household_income": "107037",
+    "households_no_internet": "81"
+  },
+  "42101038500": {
+    "name": "Census Tract 385; Philadelphia County; Pennsylvania",
+    "median_household_income": "114265",
+    "households_no_internet": "20"
+  },
+  "42101038600": {
+    "name": "Census Tract 386; Philadelphia County; Pennsylvania",
+    "median_household_income": "164167",
+    "households_no_internet": "8"
+  },
+  "42101038700": {
+    "name": "Census Tract 387; Philadelphia County; Pennsylvania",
+    "median_household_income": "125625",
+    "households_no_internet": "0"
+  },
+  "42101038800": {
+    "name": "Census Tract 388; Philadelphia County; Pennsylvania",
+    "median_household_income": "107891",
+    "households_no_internet": "148"
+  },
+  "42101038900": {
+    "name": "Census Tract 389; Philadelphia County; Pennsylvania",
+    "median_household_income": "58514",
+    "households_no_internet": "25"
+  },
+  "42101039001": {
+    "name": "Census Tract 390.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "39629",
+    "households_no_internet": "169"
+  },
+  "42101039002": {
+    "name": "Census Tract 390.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "61141",
+    "households_no_internet": "87"
+  },
+  "42101039100": {
+    "name": "Census Tract 391; Philadelphia County; Pennsylvania",
+    "median_household_income": "30573",
+    "households_no_internet": "294"
+  },
+  "42101980001": {
+    "name": "Census Tract 9800.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "-666666666",
+    "households_no_internet": "0"
+  },
+  "42101980002": {
+    "name": "Census Tract 9800.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "-666666666",
+    "households_no_internet": "0"
+  },
+  "42101980003": {
+    "name": "Census Tract 9800.03; Philadelphia County; Pennsylvania",
+    "median_household_income": "-666666666",
+    "households_no_internet": "0"
+  },
+  "42101980100": {
+    "name": "Census Tract 9801; Philadelphia County; Pennsylvania",
+    "median_household_income": "103727",
+    "households_no_internet": "5"
+  },
+  "42101980200": {
+    "name": "Census Tract 9802; Philadelphia County; Pennsylvania",
+    "median_household_income": "-666666666",
+    "households_no_internet": "0"
+  },
+  "42101980300": {
+    "name": "Census Tract 9803; Philadelphia County; Pennsylvania",
+    "median_household_income": "-666666666",
+    "households_no_internet": "0"
+  },
+  "42101980400": {
+    "name": "Census Tract 9804; Philadelphia County; Pennsylvania",
+    "median_household_income": "-666666666",
+    "households_no_internet": "0"
+  },
+  "42101980500": {
+    "name": "Census Tract 9805; Philadelphia County; Pennsylvania",
+    "median_household_income": "-666666666",
+    "households_no_internet": "0"
+  },
+  "42101980600": {
+    "name": "Census Tract 9806; Philadelphia County; Pennsylvania",
+    "median_household_income": "-666666666",
+    "households_no_internet": "0"
+  },
+  "42101980701": {
+    "name": "Census Tract 9807.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "-666666666",
+    "households_no_internet": "0"
+  },
+  "42101980702": {
+    "name": "Census Tract 9807.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "-666666666",
+    "households_no_internet": "0"
+  },
+  "42101980800": {
+    "name": "Census Tract 9808; Philadelphia County; Pennsylvania",
+    "median_household_income": "-666666666",
+    "households_no_internet": "0"
+  },
+  "42101980901": {
+    "name": "Census Tract 9809.01; Philadelphia County; Pennsylvania",
+    "median_household_income": "-666666666",
+    "households_no_internet": "0"
+  },
+  "42101980902": {
+    "name": "Census Tract 9809.02; Philadelphia County; Pennsylvania",
+    "median_household_income": "-666666666",
+    "households_no_internet": "0"
+  },
+  "42101980903": {
+    "name": "Census Tract 9809.03; Philadelphia County; Pennsylvania",
+    "median_household_income": "-666666666",
+    "households_no_internet": "0"
+  },
+  "42101980904": {
+    "name": "Census Tract 9809.04; Philadelphia County; Pennsylvania",
+    "median_household_income": "-666666666",
+    "households_no_internet": "0"
+  },
+  "42101980905": {
+    "name": "Census Tract 9809.05; Philadelphia County; Pennsylvania",
+    "median_household_income": "-666666666",
+    "households_no_internet": "0"
+  },
+  "42101980906": {
+    "name": "Census Tract 9809.06; Philadelphia County; Pennsylvania",
+    "median_household_income": "-666666666",
+    "households_no_internet": "0"
+  },
+  "42101989100": {
+    "name": "Census Tract 9891; Philadelphia County; Pennsylvania",
+    "median_household_income": "-666666666",
+    "households_no_internet": "0"
+  },
+  "42101989200": {
+    "name": "Census Tract 9892; Philadelphia County; Pennsylvania",
+    "median_household_income": "-666666666",
+    "households_no_internet": "0"
+  },
+  "42101989300": {
+    "name": "Census Tract 9893; Philadelphia County; Pennsylvania",
+    "median_household_income": "-666666666",
+    "households_no_internet": "0"
+  }
+}
