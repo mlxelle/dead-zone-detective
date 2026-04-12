@@ -10,7 +10,8 @@
     "cable_only": 1,
     "equity_flag": 0,
     "dl_gap_pct": 90.3,
-    "field_ops_summary": "Inspect cable node \u2014 risk score 64.2/100, 1025 locations affected."
+    "field_ops_summary": "Inspect cable node \u2014 risk score 64.2/100, 1025 locations affected.",
+    "neighborhood": "Philadelphia"
   },
   {
     "rank": 2,
@@ -23,7 +24,8 @@
     "cable_only": 1,
     "equity_flag": 0,
     "dl_gap_pct": 91.5,
-    "field_ops_summary": "Inspect cable node \u2014 risk score 64.2/100, 4289 locations affected."
+    "field_ops_summary": "Inspect cable node \u2014 risk score 64.2/100, 4289 locations affected.",
+    "neighborhood": "Philadelphia"
   },
   {
     "rank": 3,
@@ -36,7 +38,8 @@
     "cable_only": 1,
     "equity_flag": 0,
     "dl_gap_pct": 90.3,
-    "field_ops_summary": "Inspect cable node \u2014 risk score 64.1/100, 998 locations affected."
+    "field_ops_summary": "Inspect cable node \u2014 risk score 64.1/100, 998 locations affected.",
+    "neighborhood": "Philadelphia"
   },
   {
     "rank": 4,
@@ -49,7 +52,8 @@
     "cable_only": 1,
     "equity_flag": 0,
     "dl_gap_pct": 90.3,
-    "field_ops_summary": "Inspect cable node \u2014 risk score 63.5/100, 898 locations affected."
+    "field_ops_summary": "Inspect cable node \u2014 risk score 63.5/100, 898 locations affected.",
+    "neighborhood": "Philadelphia"
   },
   {
     "rank": 5,
@@ -62,7 +66,8 @@
     "cable_only": 1,
     "equity_flag": 0,
     "dl_gap_pct": 90.4,
-    "field_ops_summary": "Inspect cable node \u2014 risk score 63.5/100, 1065 locations affected."
+    "field_ops_summary": "Inspect cable node \u2014 risk score 63.5/100, 1065 locations affected.",
+    "neighborhood": "Philadelphia"
   },
   {
     "rank": 6,
@@ -75,7 +80,8 @@
     "cable_only": 1,
     "equity_flag": 0,
     "dl_gap_pct": 90.3,
-    "field_ops_summary": "Inspect cable node \u2014 risk score 63.2/100, 764 locations affected."
+    "field_ops_summary": "Inspect cable node \u2014 risk score 63.2/100, 764 locations affected.",
+    "neighborhood": "Philadelphia"
   },
   {
     "rank": 7,
@@ -88,7 +94,8 @@
     "cable_only": 1,
     "equity_flag": 0,
     "dl_gap_pct": 90.4,
-    "field_ops_summary": "Inspect cable node \u2014 risk score 63.0/100, 1112 locations affected."
+    "field_ops_summary": "Inspect cable node \u2014 risk score 63.0/100, 1112 locations affected.",
+    "neighborhood": "Philadelphia"
   },
   {
     "rank": 8,
@@ -101,7 +108,8 @@
     "cable_only": 1,
     "equity_flag": 0,
     "dl_gap_pct": 90.3,
-    "field_ops_summary": "Inspect cable node \u2014 risk score 62.5/100, 561 locations affected."
+    "field_ops_summary": "Inspect cable node \u2014 risk score 62.5/100, 561 locations affected.",
+    "neighborhood": "Philadelphia"
   },
   {
     "rank": 9,
@@ -114,7 +122,8 @@
     "cable_only": 1,
     "equity_flag": 0,
     "dl_gap_pct": 90.3,
-    "field_ops_summary": "Inspect cable node \u2014 risk score 62.4/100, 463 locations affected."
+    "field_ops_summary": "Inspect cable node \u2014 risk score 62.4/100, 463 locations affected.",
+    "neighborhood": "Philadelphia"
   },
   {
     "rank": 10,
@@ -127,6 +136,7 @@
     "cable_only": 1,
     "equity_flag": 0,
     "dl_gap_pct": 90.3,
-    "field_ops_summary": "Inspect cable node \u2014 risk score 62.3/100, 437 locations affected."
+    "field_ops_summary": "Inspect cable node \u2014 risk score 62.3/100, 437 locations affected.",
+    "neighborhood": "Philadelphia"
   }
 ]
