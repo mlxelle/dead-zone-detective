@@ -1,9 +1,12 @@
-Dead Zone Detective — NetPulse
-Philadelphia has connectivity gaps, and most go unreported until someone's already frustrated. Dead Zone Detective is a predictive analytics dashboard that gives internet providers and city planners a heads-up, not a catch-up.
-The tool maps 20 Philadelphia neighborhoods using real-time risk scoring based on FCC broadband coverage data, Ookla open speed test results, and Census Bureau demographic indicators. Each neighborhood is rendered as an interactive hexagon on a dark-themed Leaflet map, color-coded from green (low risk) to red (critical) based on a composite risk score that factors in download speeds, ISP availability, complaint history, and the percentage of households with no internet access.
+# Dead Zone Detective — NetPulse
+
+Philadelphia has connectivity gaps, and most go unreported until someone's already frustrated. Dead Zone Detective is a predictive analytics dashboard that maps 20 Philadelphia neighborhoods using real-time risk scoring based on FCC broadband coverage data, Ookla open speed test results, and Census Bureau demographic indicators. Each neighborhood is rendered as an interactive hexagon on a dark-themed Leaflet map, color-coded from green (low risk) to red (critical) based on a composite risk score that factors in download speeds, ISP availability, complaint history, and the percentage of households with no internet access.
+
 A ranked Top-10 sidebar prioritizes the most at-risk zones for field operations teams. Clicking any hexagon or list item flies the map to that location and opens a detail panel featuring a D3-powered arc gauge showing risk severity, upload/download speed bars, fiber availability status, and auto-generated dispatch actions like "single-ISP monopoly — escalate to infrastructure team" or "below FCC threshold — prioritize node upgrade."
+
 A weather simulation toggle adjusts all predictions in real time across the dashboard, modeling how rain, storms, and heat waves amplify complaint volume — because infrastructure failures don't happen in a vacuum.
 The equity analysis reveals that low-income neighborhoods average 18.4 Mbps (below the FCC's 25 Mbps minimum) while affluent areas average 118.2 Mbps — a 6.4× gap. Communities with 80%+ minority populations are 3.7× more likely to have only one ISP option.
+
 Built with React, Leaflet, OpenStreetMap, and D3. 
 
 ## Available Scripts
